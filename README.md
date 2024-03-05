@@ -29,3 +29,5 @@ Suitable for GitHub repositories, this code is well-commented, modular, and easi
 
 
 Feel free to use, modify, and contribute to this project for educational purposes or as a starting point for more advanced library management systems.
+<br>
+Author - (Mohammed Afzal)
